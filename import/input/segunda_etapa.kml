@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Segunda Etapa de Vacunación: Adultos Mayores</name>
+    <description>Municipios de inicio de la segunda etapa de vacunación en México: vacunas para personas adultas mayores</description>
+    <NetworkLink>
+      <name>Segunda Etapa de Vacunación: Adultos Mayores</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=14q05ytl11J34y0EmQD9YerGPZldl8Uzh]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
